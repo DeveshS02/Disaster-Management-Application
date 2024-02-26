@@ -1,0 +1,73 @@
+#map {
+  height: 60vh;
+  width: 60vw;
+  margin: auto;
+}
+
+#filters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.filter {
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  color: #495057;
+  cursor: pointer;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.filter:hover {
+  background-color: #e9ecef;
+}
+
+.filter.active {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+#agencyInfo {
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  color: #495057;
+  margin: 20px auto;
+  padding: 10px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+  width: 60vw;
+}
+
+.custom-popup {
+  font-size: 16px;
+  color: #333;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding: 10px;
+  max-width: 300px;
+}
+
+.custom-popup b {
+  font-size: 18px;
+  color: #0078d4;
+}
+
+.custom-popup button {
+  background-color: #0078d4;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.custom-popup button:hover {
+  background-color: #005a9e;
+}

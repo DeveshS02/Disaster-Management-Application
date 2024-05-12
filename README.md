@@ -8,11 +8,9 @@ The **Disaster Management Application** is a web-based platform designed to faci
 
 2. **Incident Tracking**: Agencies can report and track incidents such as earthquakes, floods, fires, or other emergencies. Each incident is marked on the map, allowing responders to quickly assess the situation.
 
-3. **Resource Allocation**: The application allows agencies to allocate resources (such as medical supplies, food, and shelter) based on the severity and location of the disaster. Resource availability and distribution are visualized on the map.
+3. **User Roles**: The application supports different user roles, including administrators, field responders, and coordinators. Each role has specific permissions and responsibilities.
 
-4. **Alerts and Notifications**: The system sends automated alerts and notifications to relevant agencies based on incident severity, proximity, and resource needs. Agencies receive timely updates to respond effectively.
-
-5. **User Roles**: The application supports different user roles, including administrators, field responders, and coordinators. Each role has specific permissions and responsibilities.
+4. **Cooperatioon**: Agenices can carry their operations in a streamlined manner, adequately managing their resources as a collective.
 
 ## Installation and Setup
 
